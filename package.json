@@ -1,0 +1,15 @@
+{
+  "name": "ashley-boilerplate",
+  "version": "1.0.0",
+  "description": "Creating boilerplate from scratch to use in future projects",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashley collis-burgess",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
